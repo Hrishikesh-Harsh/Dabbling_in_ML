@@ -1,0 +1,17 @@
+Feature 1:Adult Mortality,
+Feature 2: Infant deaths
+Feature 3: Alcohol
+Feature 4: Percentage Expenditure
+Feature 5: Cases of Hepatitis B
+Feature 6: Cases of Measles 
+Feature 7: BMI
+Feature 8: Under-five deaths 
+Feature 9: Cases of Polio
+Feature 10: Total expenditure
+Feature 11: Cases of Diphtheria
+Feature 12: Cases of HIV/AIDS
+Feature 13: GDP
+Feature 14: Population
+Feature 15: Thinness 1-19 years
+Feature 16: Income composition of resources
+Feature 17: Schooling
